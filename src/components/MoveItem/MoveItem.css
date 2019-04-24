@@ -1,0 +1,14 @@
+label {
+  color: #7f7f7f;
+}
+.media-body .input-group {
+  width: 210px;
+}
+.input-group .custom-select {
+  height: 30px;
+  font-size: 90%;
+  color: #00BCD4;
+  background-color: #fff;
+  border: 1px solid #00BCD4;
+  padding: 0.25rem 1.75rem 0.25rem 0.5rem;
+}

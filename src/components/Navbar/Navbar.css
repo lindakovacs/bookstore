@@ -1,0 +1,43 @@
+.navbar {
+  flex-flow: row wrap;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+.navbar-brand {
+  display: none;
+  margin: 0;
+  padding: 0;
+}
+.navbar-collapse {
+  flex-grow: unset;
+}
+@media (min-width: 992px) {
+  .navbar {
+    flex-wrap: nowrap;
+    padding: 0 1rem 0 0;
+    align-items: center;
+    margin-bottom: 30px;
+    background-color: #00BCD4;
+  }
+  .navbar-nav {
+    padding-left: 9rem;
+  }
+}
+.primary-bg {
+  background-color: #00BCD4;
+}
+nav li {
+  border-top: 1px solid #7f7f7f;
+}
+nav li:first-child {
+  margin-top: 10px;
+}
+
+@media (min-width: 992px) {
+  nav li {
+    border-top: 0px solid #fff;
+  }
+  nav li:first-child {
+    margin-top: 0;
+  }
+}

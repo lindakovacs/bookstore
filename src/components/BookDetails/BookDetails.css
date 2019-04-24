@@ -1,0 +1,14 @@
+.book-details > section p:first-child {
+  color: #00BCD4;
+  font-weight: 500;
+  text-align: center;
+}
+.error a {
+  color: #b72a3c;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: #b72a3c;
+}
+.error a:hover {
+  color: #b72a3c;
+}

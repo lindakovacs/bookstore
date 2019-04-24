@@ -1,0 +1,24 @@
+.btn-primary {
+  background-color: #00BCD4;
+  border-color: #00BCD4;
+}
+.input-group input {
+  background-color: #fff;
+  border: 1px solid #00BCD4;
+}
+
+.search-field {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.search-field > p {
+  font-size: 110%;
+  margin-bottom: 0.5rem;
+}
+.search-field > .input-group {
+  justify-content: center;
+}
+.search-field input {
+  text-align: center;
+  min-width: 250px;
+}
