@@ -3,7 +3,7 @@
 - Projects: [2) Book Store App](https://docs.google.com/document/d/1nDpv2dALdW2HUSJ-DpsOM644FM9BbxNjrzYtyQCpj-M/edit?usp=sharing)
 - Instructors: [Matina Patsos](https://github.com/matinaspatsos) and [Jamal Taylor](https://github.com/Louis345)
 - [AlbanyCanCode's JavaScript Frameworks Class Spring 2019](https://github.com/AlbanyCanCodeCourses/JavaScript2019)
-- [Demo Book Store App on codesandbox.io - TBD]( # )
+- [Demo Book Store App on codesandbox.io - TBD](https://codesandbox.io/s/8koo25o4q8)
 
 ## Introduction
 
